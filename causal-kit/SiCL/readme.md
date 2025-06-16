@@ -26,4 +26,12 @@ Use conda to create the environment:
 > conda env create -f sicl.yml
 
 ## Cite
-TBD
+```
+@inproceedings{zhang2025learning,
+  title={Learning Identifiable Structures Helps Avoid Bias in DNN-based Supervised Causal Learning},
+  author={Zhang, Jiaru and Ding Rui and Fu Qiang and Huang Bojun and Deng Zizhen and Hua, Yang and Guan, Haibing and Han Shi and Zhang Dongmei},
+  year={2025},
+  booktitle={AISTATS},
+}
+
+```
